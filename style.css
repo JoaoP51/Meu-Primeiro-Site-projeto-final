@@ -1,0 +1,40 @@
+.img-sid {
+    width: 400px;
+}
+img {
+    width: 400px;
+}
+img {
+     width: 400px;
+}
+
+.centralizar {
+    align-items: center;
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 12px;
+}
+p {
+    font-size: 20px;
+}
+.centralizar p {
+    width: 600px;
+    
+} 
+body{
+    background-image: linear-gradient(to right,rgb(183, 194, 34),rgb(252, 164, 0));
+} 
+a{
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    margin: 0%; 
+    padding: 0%;
+} 
